@@ -1,0 +1,21 @@
+{
+  "name": "JLCT",
+  "displayName": "jeriBads",
+  "description": "Not high contrast red theme, used soft colors. Will not cause pain",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JeriBad's Softie Ruby Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JeriBad's Softie Ruby Theme-color-theme.json"
+      }
+    ]
+  }
+}
