@@ -1,11 +1,11 @@
 {
 	"name": "JeriBad's Softie Ruby Theme",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
-	},
+		"editor.background": "#330000", // Very dark red (almost black)
+		"editor.foreground": "#cccccc", // Light or medium gray
+		"activityBarBadge.background": "#660000", // Softer shade of red
+		"sideBarTitle.foreground": "#999999" // Neutral grays or whites
+	},	
 	"tokenColors": [
 		{
 			"name": "Comment",
